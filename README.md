@@ -24,7 +24,7 @@ Polymer:NFA data setは、大阪大学・佐伯教授らの総説論文[1,2]で�
 Google Colabでステップ・バイ・ステップで動作を確認しながら進めます．下記のボタンを押して進んでください．
 
 <div align="center">
-  <a href="https://colab.research.google.com/github/ARIM-Training/Training_python_6/blob/main/有機太陽電池編.ipynb">
+  <a href="https://colab.research.google.com/github/ARIM-Training/Training_python_7/blob/main/Notebook1_site_loo_prediction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </div>
